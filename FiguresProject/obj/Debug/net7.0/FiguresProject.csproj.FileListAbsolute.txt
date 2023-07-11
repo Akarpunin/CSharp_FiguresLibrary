@@ -1,0 +1,12 @@
+C:\Users\Asus\Desktop\C#\FiguresProject\FiguresProject\bin\Debug\net7.0\FiguresProject.deps.json
+C:\Users\Asus\Desktop\C#\FiguresProject\FiguresProject\bin\Debug\net7.0\FiguresProject.dll
+C:\Users\Asus\Desktop\C#\FiguresProject\FiguresProject\bin\Debug\net7.0\FiguresProject.pdb
+C:\Users\Asus\Desktop\C#\FiguresProject\FiguresProject\obj\Debug\net7.0\FiguresProject.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C#\FiguresProject\FiguresProject\obj\Debug\net7.0\FiguresProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C#\FiguresProject\FiguresProject\obj\Debug\net7.0\FiguresProject.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C#\FiguresProject\FiguresProject\obj\Debug\net7.0\FiguresProject.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C#\FiguresProject\FiguresProject\obj\Debug\net7.0\FiguresProject.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C#\FiguresProject\FiguresProject\obj\Debug\net7.0\FiguresProject.dll
+C:\Users\Asus\Desktop\C#\FiguresProject\FiguresProject\obj\Debug\net7.0\refint\FiguresProject.dll
+C:\Users\Asus\Desktop\C#\FiguresProject\FiguresProject\obj\Debug\net7.0\FiguresProject.pdb
+C:\Users\Asus\Desktop\C#\FiguresProject\FiguresProject\obj\Debug\net7.0\ref\FiguresProject.dll
